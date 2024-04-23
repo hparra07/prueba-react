@@ -1,0 +1,17 @@
+.breadcrumb {
+    background-color: transparent;
+    font-size: 12px !important;
+    font-weight: 400 !important;
+    letter-spacing: 0.5px !important;
+    margin-bottom: 10px !important;
+}
+
+.breadcrumb-item a{
+    color: #bbb !important;
+    text-decoration: none;
+    text-transform: capitalize;
+}
+
+.breadcrumb-item a:hover{
+    color: #757575 !important;
+}
